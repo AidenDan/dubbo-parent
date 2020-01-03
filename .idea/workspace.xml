@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52980250-b027-4632-b549-baed135d37b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VPbn9L9UCSMhXeRNRbtH8uPoJ1" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/template" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dubbo.demo.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\javaproject\dubbo-parent\dubbo-pojo\src\main\java\com\dubbo\demo\pojo" />
+      <recent name="G:\javaproject\dubbo-parent\dubbo-pojo\src\main\java" />
+      <recent name="G:\javaproject\dubbo-parent\dubbo-provider\src\main\resources" />
+      <recent name="G:\javaproject\dubbo-parent\dubbo-interface\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DubboConsumerApplication">
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.demo.DubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.demo.DubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52980250-b027-4632-b549-baed135d37b1" name="Default Changelist" comment="" />
+      <created>1577157841300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577157841300</updated>
+      <workItem from="1577157846435" duration="4431000" />
+      <workItem from="1577239184052" duration="16918000" />
+      <workItem from="1577280816706" duration="1172000" />
+      <workItem from="1577460808555" duration="45000" />
+      <workItem from="1577680155280" duration="987000" />
+      <workItem from="1577923980905" duration="5241000" />
+      <workItem from="1578033902554" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="162" key="#Inspections" timestamp="1577239232649">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="603" y="162" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1577239232649" />
+    <state x="827" y="212" key="#com.intellij.ide.util.MemberChooser" timestamp="1577258166545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="827" y="212" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1577258166545" />
+    <state x="618" y="467" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577255142522">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="618" y="467" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577255142522" />
+    <state x="801" y="257" key="FileChooserDialogImpl" timestamp="1577263333036">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="801" y="257" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1577263333036" />
+    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog" timestamp="1578034060256">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578034060256" />
+    <state width="1450" height="156" key="GridCell.Tab.0.bottom" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.0.center" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.0.left" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.0.right" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.1.bottom" timestamp="1577683477654">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477654" />
+    <state width="1450" height="156" key="GridCell.Tab.1.center" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.1.left" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state width="1450" height="156" key="GridCell.Tab.1.right" timestamp="1577683477653">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1450" height="156" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
+    <state x="530" y="146" key="SettingsEditor" timestamp="1578034188669">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="530" y="146" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578034188669" />
+    <state x="521" y="295" key="Vcs.Push.Dialog.v2" timestamp="1578034332872">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="521" y="295" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578034332872" />
+    <state x="443" y="206" key="new project wizard" timestamp="1577256649087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="443" y="206" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1577256649087" />
+  </component>
+</project>
