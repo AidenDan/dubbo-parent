@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dubbo-pojo" />
         <module name="dubbo-interface" />
-        <module name="dubbo-provider" />
         <module name="dubbo-consumer" />
+        <module name="dubbo-pojo" />
         <module name="dubbo-parent" />
+        <module name="dubbo-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dubbo-consumer" target="11" />
-      <module name="dubbo-interface" target="11" />
-      <module name="dubbo-parent" target="11" />
-      <module name="dubbo-pojo" target="11" />
-      <module name="dubbo-provider" target="11" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-interface" target="1.8" />
+      <module name="dubbo-parent" target="1.8" />
+      <module name="dubbo-pojo" target="1.8" />
+      <module name="dubbo-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

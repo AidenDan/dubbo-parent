@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52980250-b027-4632-b549-baed135d37b1" name="Default Changelist" comment="" />
+    <list default="true" id="52980250-b027-4632-b549-baed135d37b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-pojo/dubbo-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-pojo/dubbo-pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +29,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\javaproject\dubbo-parent\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -32,6 +50,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VPbn9L9UCSMhXeRNRbtH8uPoJ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,13 +62,14 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -106,12 +126,40 @@
       <workItem from="1577460808555" duration="45000" />
       <workItem from="1577680155280" duration="987000" />
       <workItem from="1577923980905" duration="5241000" />
-      <workItem from="1578033902554" duration="287000" />
+      <workItem from="1578033902554" duration="2977000" />
+      <workItem from="1578048235977" duration="2539000" />
+      <workItem from="1578052405983" duration="2099000" />
+      <workItem from="1578058894182" duration="106000" />
+      <workItem from="1578117075689" duration="1426000" />
+      <workItem from="1578127286012" duration="661000" />
+      <workItem from="1578128110290" duration="89000" />
+      <workItem from="1578128705350" duration="33000" />
+      <workItem from="1578128914579" duration="3115000" />
+      <workItem from="1578134797833" duration="761000" />
+      <workItem from="1578143911180" duration="109000" />
+      <workItem from="1578151928832" duration="81000" />
+      <workItem from="1578153442795" duration="115000" />
+      <workItem from="1578208789392" duration="22000" />
+      <workItem from="1581238905039" duration="1290000" />
+      <workItem from="1581240400277" duration="1256000" />
+      <workItem from="1588510557678" duration="764000" />
     </task>
+    <task id="LOCAL-00001" summary="dubbo+zookeeper">
+      <created>1578034578280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578034578280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dubbo+zookeeper" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo+zookeeper" />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="162" key="#Inspections" timestamp="1577239232649">
@@ -126,14 +174,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="618" y="467" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1577255142522" />
-    <state x="801" y="257" key="FileChooserDialogImpl" timestamp="1577263333036">
+    <state x="452" y="157" key="CommitChangelistDialog2" timestamp="1578034570879">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="801" y="257" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1577263333036" />
-    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog" timestamp="1578034060256">
+    <state x="452" y="157" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1578034570879" />
+    <state x="801" y="257" key="FileChooserDialogImpl" timestamp="1578118234914">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578034060256" />
+    <state x="801" y="257" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578118234914" />
+    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog" timestamp="1578034787591">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="492" width="395" height="209" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578034787591" />
     <state width="1450" height="156" key="GridCell.Tab.0.bottom" timestamp="1577683477653">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -166,17 +218,21 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1450" height="156" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577683477653" />
-    <state x="530" y="146" key="SettingsEditor" timestamp="1578034188669">
+    <state x="530" y="146" key="SettingsEditor" timestamp="1578135444255">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="530" y="146" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578034188669" />
-    <state x="521" y="295" key="Vcs.Push.Dialog.v2" timestamp="1578034332872">
+    <state x="530" y="146" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578135444255" />
+    <state x="521" y="295" key="Vcs.Push.Dialog.v2" timestamp="1578034746371">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="521" y="295" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578034332872" />
-    <state x="443" y="206" key="new project wizard" timestamp="1577256649087">
+    <state x="521" y="295" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578034746371" />
+    <state x="732" y="355" key="git4idea.merge.GitPullDialog" timestamp="1578034607130">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="443" y="206" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1577256649087" />
+    <state x="732" y="355" key="git4idea.merge.GitPullDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578034607130" />
+    <state x="443" y="206" key="new project wizard" timestamp="1581239410770">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="443" y="206" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581239410770" />
   </component>
 </project>
