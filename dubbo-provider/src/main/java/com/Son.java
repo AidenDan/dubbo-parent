@@ -13,5 +13,10 @@ public class Son {
         System.out.println("测试用。这是主分支");
         System.out.println("测试用。这是主分支");
         System.out.println("测试用。这是主分支");
+        System.out.println("测试用。这是主分支");
+        System.out.println("测试用。这是主分支");
+        System.out.println("测试用。这是主分支");
+        System.out.println("测试用。这是主分支");
+        System.out.println("测试用。这是主分支");
     }
 }
